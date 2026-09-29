@@ -1,0 +1,22 @@
+{
+  "name": "allyk-diagnostics",
+  "version": "1.0.0",
+  "description": "Help founders and entrepreneurs choose the next customer assumption to test through ALLYK Diagnostics.",
+  "author": {
+    "name": "MAYAYAI",
+    "url": "https://allyk.app"
+  },
+  "homepage": "https://allyk.app/plugins",
+  "repository": "https://github.com/mayayaiinfra/allyk-diagnostics-grok-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "allyk",
+    "allyk diagnostics",
+    "customer validation",
+    "founder decisions",
+    "business diagnostics"
+  ],
+  "logo": "assets/allyk-diagnostics-logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

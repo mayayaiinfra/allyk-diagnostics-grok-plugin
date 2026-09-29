@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "allyk-diagnostics": {
+      "type": "http",
+      "url": "https://allyk-fastapi.onrender.com/mcp"
+    }
+  }
+}
